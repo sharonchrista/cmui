@@ -1,0 +1,22 @@
+name: cmui
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - rasterio
+  - geopandas
+  - xarray
+  - netCDF4
+  - shapely
+  - pyproj
+  - pip
+  - pip:
+      - earthengine-api
+      - geemap
+      - pyTMD

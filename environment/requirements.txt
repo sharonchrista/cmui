@@ -1,0 +1,15 @@
+# pip fallback — use environment.yml with conda where possible
+earthengine-api
+geemap
+pyTMD
+numpy
+pandas
+scipy
+matplotlib
+rasterio
+geopandas
+xarray
+netCDF4
+shapely
+pyproj
+jupyter
